@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Seznam skladeb</title>
+	<trackList>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/01%20-%20Mysteria.mp3</location>
+			<title>Track01</title>
+			<creator>Edguy</creator>
+			<album>Hellfire Club</album>
+			<trackNum>1</trackNum>
+			<annotation>Track 1</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Edguy/Hellfire%20Club/art.jpg</image>
+			<duration>345869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/01%20-%20The%20Wicker%20Man.mp3</location>
+			<title>The Wicker Man</title>
+			<creator>Iron Maiden</creator>
+			<album>Brave New World</album>
+			<trackNum>1</trackNum>
+			<annotation>Team #RNS on EFNET</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Iron%20Maiden/Brave%20New%20World/art.jpg</image>
+			<duration>275518</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/01%20ministry%20of%20saints.mp3</location>
+			<title>Ministry Of Saints</title>
+			<creator>Edguy</creator>
+			<album>Tinnitus Sanctus</album>
+			<trackNum>1</trackNum>
+			<annotation>                            </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Edguy/Tinnitus%20Sanctus/art.jpg</image>
+			<duration>302580</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/01-Rammlied.flac</location>
+			<title>Rammlied</title>
+			<creator>Rammstein</creator>
+			<album>Liebe Ist Für Alle Da</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Rammstein/Liebe%20Ist%20F%C3%BCr%20Alle%20Da/art.jpg</image>
+			<duration>318666</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/02%20-%20Out%20of%20Control.mp3</location>
+			<title>Out of Control</title>
+			<creator>Hoobastank</creator>
+			<album>The Reason</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Hoobastank/The%20Reason/art.jpg</image>
+			<duration>162199</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/02-Ich%20Tu%20Dir%20Weh.flac</location>
+			<title>Ich Tu Dir Weh</title>
+			<creator>Rammstein</creator>
+			<album>Liebe Ist Für Alle Da</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Rammstein/Liebe%20Ist%20F%C3%BCr%20Alle%20Da/art.jpg</image>
+			<duration>301853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/03%20-%20P.O.D.%20-%20Boom.mp3</location>
+			<title>Boom</title>
+			<creator>P.O.D</creator>
+			<album>Satellite</album>
+			<trackNum>3</trackNum>
+			<annotation>(Advance Retail)</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/P.O.D/Satellite/art.jpg</image>
+			<duration>188367</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/03-powerman_5000-bombshell-ego.mp3</location>
+			<title>Bombshell</title>
+			<creator>Powerman 5000</creator>
+			<album>Anyone For Doomsday</album>
+			<trackNum>3</trackNum>
+			<annotation>[EGO] #ego on efnet [EGO]</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Powerman%205000/Anyone%20For%20Doomsday/art.jpg</image>
+			<duration>193934</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/04%20-%20Down%20To%20The%20Devil.mp3</location>
+			<title>Track04</title>
+			<creator>Edguy</creator>
+			<album>Hellfire Club</album>
+			<trackNum>4</trackNum>
+			<annotation>Track 4</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Edguy/Hellfire%20Club/art.jpg</image>
+			<duration>328496</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/04-Ich%20will.flac</location>
+			<title>Ich will</title>
+			<creator>Rammstein</creator>
+			<album>Mutter</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Rammstein/Mutter/art.jpg</image>
+			<duration>217600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/05-Bxxxxxxxx.flac</location>
+			<title>B********</title>
+			<creator>Rammstein</creator>
+			<album>Liebe Ist Für Alle Da</album>
+			<trackNum>5</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Rammstein/Liebe%20Ist%20F%C3%BCr%20Alle%20Da/art.jpg</image>
+			<duration>254013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/10%20Energy.mp3</location>
+			<title>Energy</title>
+			<creator>Skillet</creator>
+			<album>Collide</album>
+			<trackNum>10</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Skillet/Collide/art.jpg</image>
+			<duration>236082</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/10%20dead%20or%20rock.mp3</location>
+			<title>Dead Or Rock</title>
+			<creator>Edguy</creator>
+			<album>Tinnitus Sanctus</album>
+			<trackNum>10</trackNum>
+			<annotation>                            </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Edguy/Tinnitus%20Sanctus/art.jpg</image>
+			<duration>299500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/13%20-%20Numb.mp3</location>
+			<duration>187493</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/300%20Violin%20Orchestra%20-%20Jorge%20Quintero.mp3</location>
+			<title>300 Violin Orchestra</title>
+			<creator>Jorge Quintero</creator>
+			<album>Hip Hop and RnB Instrmentals</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Jorge%20Quintero/Hip%20Hop%20and%20RnB%20Instrmentals/art.jpg</image>
+			<duration>178158</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/39-dropkick_murphys-im_shipping_up_to_boston.mp3</location>
+			<title>I&#39;m Shipping Up To Boston</title>
+			<creator>Dropkick Murphys</creator>
+			<album>The Departed (OST)</album>
+			<trackNum>7</trackNum>
+			<annotation> 0000187D 00001ACF 00004BEA 00004D1A 000138C5 0000C395 00007965 00006A55 00013880 0001D4C0</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Dropkick%20Murphys/The%20Departed%20%28OST%29/art.jpg</image>
+			<duration>154203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Antoni%20Hardonk%20-%20Lux%20Aeterna%20%28Requiem%20for%20a%20Dream%20Soundtrack%20-%20Full%20Orchestral%20Remix%29%20%28Clint%20Mansell%29%20UFC%2080%20%281%29.mp3</location>
+			<duration>388597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Avenged%20Sevenfold%20-%20Afterlife.mp3</location>
+			<duration>242625</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Blur_Song_2_Superior_Quality_Edition_2010.mp3</location>
+			<title>Song 2  (Superior Quality Edition 2010)</title>
+			<creator>Blur</creator>
+			<album>Collection of Remixes</album>
+			<trackNum>8</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Blur/Collection%20of%20Remixes/art.jpg</image>
+			<duration>121652</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/DrowningPool-Bodies.mp3</location>
+			<title>Bodies</title>
+			<creator>Drowning Pool</creator>
+			<album>Sinner</album>
+			<annotation>                              </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Drowning%20Pool/Sinner/art.jpg</image>
+			<duration>202008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Edguy%20-%202006%20-%20Rocket%20Ride%20-%2001%20-%20Sacrifice.mp3</location>
+			<title>Sacrifice</title>
+			<creator>Edguy</creator>
+			<album>Rocket Ride</album>
+			<trackNum>1</trackNum>
+			<annotation>SER 2006</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Edguy/Rocket%20Ride/art.jpg</image>
+			<duration>481764</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Eminem%20-%20Not%20Afraid.mp3</location>
+			<duration>259004</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Fort%20Minor%20-%20Remember%20The%20Name.mp3</location>
+			<title>Remember The Name</title>
+			<creator>Fort Minor</creator>
+			<album>Rising Tied</album>
+			<annotation> 0000183A 0000049E 00011C45 00007937 00027DF5 000349F0 00008FE8 000091F4 0002E13E 0001FF39</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Fort%20Minor/Rising%20Tied/art.jpg</image>
+			<duration>228579</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Gotthard%20-%20Lift%20U%20Up.mp3</location>
+			<title>Lift &#39;U&#39; Up</title>
+			<creator>Gotthard</creator>
+			<album>Lift &#39;U&#39; Up</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Gotthard/Lift%20%27U%27%20Up/art.jpg</image>
+			<duration>176828</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Gotthard-anytime%20Anywhere%20-%20%5BFullsongs.net%5D.mp3</location>
+			<title>Anytime, Anywhere</title>
+			<creator>Gotthard</creator>
+			<album>El Traidor</album>
+			<trackNum>3</trackNum>
+			<annotation>http://www.melodic-hard-rock-metal.blogspot.com/</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Gotthard/El%20Traidor/art.jpg</image>
+			<duration>247565</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Holywood%20Undead%20-%20Undead.mp3</location>
+			<title>01- Undead</title>
+			<creator>Hollywood Undead  .::© Www.JiGhil.Com ::.</creator>
+			<album>Swan Song .::© Www.JiGhil.Com ::.</album>
+			<trackNum>1</trackNum>
+			<annotation>.::© Www.JiGhil.Com ::.</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Hollywood%20Undead%20%20.__%C2%A9%20Www.JiGhil.Com%20__./Swan%20Song%20.__%C2%A9%20Www.JiGhil.Com%20__./art.jpg</image>
+			<duration>265203</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/LINKIN%20PARK%20-%20LIES%20GREED%20MISERY.mp3</location>
+			<duration>155376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/LP%20-%2014.%20The%20Catalyst.mp3</location>
+			<title>The Catalyst</title>
+			<creator>Linkin Park</creator>
+			<album>A Thousand Suns</album>
+			<trackNum>14</trackNum>
+			<annotation>Track 14</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Linkin%20Park/A%20Thousand%20Suns/art.jpg</image>
+			<duration>339911</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/LastLookAtEden.mp3</location>
+			<duration>235650</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Limp%20Bizkit%20-%20Rollin.mp3</location>
+			<title>Rollin (Airraid Vehicle)</title>
+			<creator>Limp Bizkit -siam.to/thaimp3</creator>
+			<annotation>www.themusiclover.com         </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/arturl/8a7e75ce77eece9d4709e06e92a36d4e/art.jpg</image>
+			<duration>213376</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Linkin_Park-Bleed-It-Out.mp3</location>
+			<title>Bleed It Out</title>
+			<creator>Linkin Park</creator>
+			<album>Minutes to Midnight</album>
+			<trackNum>4</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Linkin%20Park/Minutes%20to%20Midnight/art.jpg</image>
+			<duration>164276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Machine%20Head%20-%20Bush.mp3</location>
+			<annotation>                              </annotation>
+			<duration>256287</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Metallica%20-%20Enter%20Sandman.mp3</location>
+			<duration>322324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Pride-%20yasuharu%20takanashi.mp3</location>
+			<annotation>                              </annotation>
+			<duration>264546</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Red%20Hot%20Chili%20Peppers%20-%20Higher%20Ground.mp3</location>
+			<title>Higher Ground</title>
+			<creator>Red Hot Chili Peppers</creator>
+			<album>Mother&#39;s Milk (Original Press)</album>
+			<trackNum>2</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Red%20Hot%20Chili%20Peppers/Mother%27s%20Milk%20%28Original%20Press%29/art.jpg</image>
+			<duration>203261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Red%20Hot%20Chilli%20Peppers%20-%20Cant%20Stop.mp3</location>
+			<title>can&#39;t stop</title>
+			<trackNum>7</trackNum>
+			<annotation>  </annotation>
+			<duration>275808</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Saliva%20-%20Click%20Click%20Boom.mp3</location>
+			<title>Click Click Boom</title>
+			<creator>Saliva</creator>
+			<album>UFC Hits</album>
+			<trackNum>13</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Saliva/UFC%20Hits/art.jpg</image>
+			<duration>252324</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Scooter%20-%20Fire.mp3</location>
+			<annotation>                              </annotation>
+			<duration>212515</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Sean-Sherk-Earshot-Wait.mp3</location>
+			<title>earshot- wait</title>
+			<creator>jokerdcb</creator>
+			<album>jokerspod</album>
+			<trackNum>1</trackNum>
+			<annotation>                KLUdGE SOUND</annotation>
+			<image>http://beemp3.com/img.php%3Fppa%3D3907</image>
+			<duration>213059</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Skillet%20-%20Awake%20and%20Alive.mp3</location>
+			<duration>220943</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Skillet%20-%20Monster.mp3</location>
+			<duration>187297</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Stemm%20-%20Face%20The%20Pain.mp3</location>
+			<title>Face The Pain</title>
+			<creator>Stemm</creator>
+			<album>UFC Hits</album>
+			<trackNum>12</trackNum>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Stemm/UFC%20Hits/art.jpg</image>
+			<duration>199583</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/The%20Ultimate%20Fighter%20Theme%20Song.mp3</location>
+			<title>The Ultimate Fighter Intro</title>
+			<creator>UFC</creator>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/arturl/b89cd6bd72e9d9736ab7113b40a9ff21/art.jpg</image>
+			<duration>71523</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Three%20Days%20Grace%20-%20Pain.mp3</location>
+			<duration>218279</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/Tribal%20Ink%20-%20I%20Try%20So%20Hard.mp3</location>
+			<title>I Try So Hard</title>
+			<creator>Tribal Ink</creator>
+			<album>Surrounded By Freaks</album>
+			<trackNum>7</trackNum>
+			<annotation>00001932 0000185A 00006B76</annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Tribal%20Ink/Surrounded%20By%20Freaks/art.jpg</image>
+			<duration>197075</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/fox_nfl_theme.mp3</location>
+			<title>Fox Sports NFL Theme Song</title>
+			<creator>Various Artists</creator>
+			<album>ESPN Jock Jams Vol. 1</album>
+			<annotation>                            </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/artistalbum/Various%20Artists/ESPN%20Jock%20Jams%20Vol.%201/art.jpg</image>
+			<duration>81834</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/guano_apes_-_open_your_eyes.mp3</location>
+			<album>Best</album>
+			<duration>188869</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Martin/Desktop/Fitness/rage-against-the-machine-take-the-power-back.mp3</location>
+			<title>Take the Power Back</title>
+			<creator>Rage Against the Machine</creator>
+			<annotation>, AG# 9748B3F7                </annotation>
+			<image>file:///C:/Users/Martin/AppData/Roaming/vlc/art/arturl/f27d759e13657e737cffaf26e78cbe9e/art.jpg</image>
+			<duration>337144</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+	</extension>
+</playlist>

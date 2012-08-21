@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-06-25T13:15:33Z</date>
+	<key>Application Version</key><string>10.6.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Martin/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>19202A1599DC2A62</string>
+	<key>Tracks</key>
+	<dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Track01</string>
+			<key>Artist</key><string>Edguy</string>
+			<key>Album</key><string>Hellfire Club</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6921607</integer>
+			<key>Total Time</key><integer>345861</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2008-06-14T03:20:06Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 1</string>
+			<key>Persistent ID</key><string>20E6BEF1905056C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/01%20-%20Mysteria.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>184</key>
+		<dict>
+			<key>Track ID</key><integer>184</integer>
+			<key>Name</key><string>The Wicker Man</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave New World</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6627388</integer>
+			<key>Total Time</key><integer>275513</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2011-07-10T17:44:34Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7BC590567797D77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/01%20-%20The%20Wicker%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>187</key>
+		<dict>
+			<key>Track ID</key><integer>187</integer>
+			<key>Name</key><string>Ministry Of Saints</string>
+			<key>Artist</key><string>Edguy</string>
+			<key>Album Artist</key><string>Edguy</string>
+			<key>Composer</key><string>Tobias Sammet</string>
+			<key>Album</key><string>Tinnitus Sanctus</string>
+			<key>Genre</key><string>Heavy/Power Metal</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>12122164</integer>
+			<key>Total Time</key><integer>302576</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-11-11T13:47:32Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D91770B11BA5CF1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/01%20ministry%20of%20saints.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>192</key>
+		<dict>
+			<key>Track ID</key><integer>192</integer>
+			<key>Name</key><string>Out of Control</string>
+			<key>Artist</key><string>Hoobastank</string>
+			<key>Album</key><string>The Reason</string>
+			<key>Genre</key><string>Alternativní rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3901785</integer>
+			<key>Total Time</key><integer>162194</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2011-07-24T14:04:02Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D246021BF0D7A851</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/02%20-%20Out%20of%20Control.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Boom</string>
+			<key>Artist</key><string>P.O.D</string>
+			<key>Album</key><string>Satellite</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4535217</integer>
+			<key>Total Time</key><integer>188630</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2011-07-21T18:30:38Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7576B3F45718422A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/03%20-%20P.O.D.%20-%20Boom.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>200</key>
+		<dict>
+			<key>Track ID</key><integer>200</integer>
+			<key>Name</key><string>03-powerman_5000-bombshell-ego</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4657226</integer>
+			<key>Total Time</key><integer>194220</integer>
+			<key>Date Modified</key><date>2005-12-12T18:30:48Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2742E4DADD18AF73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/03-powerman_5000-bombshell-ego.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>203</key>
+		<dict>
+			<key>Track ID</key><integer>203</integer>
+			<key>Name</key><string>Track04</string>
+			<key>Artist</key><string>Edguy</string>
+			<key>Album</key><string>Hellfire Club</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6574179</integer>
+			<key>Total Time</key><integer>328489</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2011-08-09T13:14:46Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 4</string>
+			<key>Persistent ID</key><string>FBB05AF14B16137A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/04%20-%20Down%20To%20The%20Devil.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>210</key>
+		<dict>
+			<key>Track ID</key><integer>210</integer>
+			<key>Name</key><string>Dead Or Rock</string>
+			<key>Artist</key><string>Edguy</string>
+			<key>Album Artist</key><string>Edguy</string>
+			<key>Composer</key><string>Tobias Sammet</string>
+			<key>Album</key><string>Tinnitus Sanctus</string>
+			<key>Genre</key><string>Heavy/Power Metal</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>11998972</integer>
+			<key>Total Time</key><integer>299755</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2008-11-11T13:47:26Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>765B14E9E7F5FFF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/10%20dead%20or%20rock.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>213</key>
+		<dict>
+			<key>Track ID</key><integer>213</integer>
+			<key>Name</key><string>Energy</string>
+			<key>Artist</key><string>Skillet</string>
+			<key>Album Artist</key><string>Skillet</string>
+			<key>Composer</key><string>John L. Cooper</string>
+			<key>Album</key><string>Collide</string>
+			<key>Genre</key><string>Christian Heavy Metal</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3789487</integer>
+			<key>Total Time</key><integer>236617</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2011-07-15T16:05:11Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1D3C15530125AD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/10%20Energy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>216</key>
+		<dict>
+			<key>Track ID</key><integer>216</integer>
+			<key>Name</key><string>13 - Numb</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4504026</integer>
+			<key>Total Time</key><integer>187480</integer>
+			<key>Date Modified</key><date>2006-02-20T15:59:26Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>14EDE71AE7CA11B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/13%20-%20Numb.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>219</key>
+		<dict>
+			<key>Track ID</key><integer>219</integer>
+			<key>Name</key><string>I'm Shipping Up To Boston</string>
+			<key>Artist</key><string>Dropkick Murphys</string>
+			<key>Album</key><string>The Departed (OST)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6168704</integer>
+			<key>Total Time</key><integer>154200</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-02-06T11:09:42Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6863</integer>
+			<key>Persistent ID</key><string>973FDD8ACAA6F410</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/39-dropkick_murphys-im_shipping_up_to_boston.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>222</key>
+		<dict>
+			<key>Track ID</key><integer>222</integer>
+			<key>Name</key><string>300 Violin Orchestra</string>
+			<key>Album</key><string>Hip Hop and RnB Instrmentals</string>
+			<key>Genre</key><string>Hip Hop/Rap</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>7126679</integer>
+			<key>Total Time</key><integer>178155</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2012-04-28T14:51:52Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2008-07-02T07:00:00Z</date>
+			<key>Persistent ID</key><string>99110DFD29BCDC67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/300%20Violin%20Orchestra%20-%20Jorge%20Quintero.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>225</key>
+		<dict>
+			<key>Track ID</key><integer>225</integer>
+			<key>Name</key><string>Antoni Hardonk - Lux Aeterna (Requiem for a Dream Soundtrack - Full Orchestral Remix) (Clint Mansell) UFC 80 (1)</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>9326341</integer>
+			<key>Total Time</key><integer>388597</integer>
+			<key>Date Modified</key><date>2010-11-30T21:39:50Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>536FB19307D1D7D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Antoni%20Hardonk%20-%20Lux%20Aeterna%20(Requiem%20for%20a%20Dream%20Soundtrack%20-%20Full%20Orchestral%20Remix)%20(Clint%20Mansell)%20UFC%2080%20(1).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>228</key>
+		<dict>
+			<key>Track ID</key><integer>228</integer>
+			<key>Name</key><string>Avenged Sevenfold - Afterlife</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3882036</integer>
+			<key>Total Time</key><integer>242625</integer>
+			<key>Date Modified</key><date>2012-06-25T11:21:01Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>B07DB1890B37D61C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Avenged%20Sevenfold%20-%20Afterlife.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>231</key>
+		<dict>
+			<key>Track ID</key><integer>231</integer>
+			<key>Name</key><string>Song 2  (Superior Quality Edition 2010)</string>
+			<key>Artist</key><string>Blur</string>
+			<key>Album Artist</key><string>Zem</string>
+			<key>Composer</key><string>Blur</string>
+			<key>Album</key><string>Collection of Remixes</string>
+			<key>Genre</key><string>Hardstyle</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4870625</integer>
+			<key>Total Time</key><integer>121652</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2012-04-28T14:33:50Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C5CA66237BBB9460</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Blur_Song_2_Superior_Quality_Edition_2010.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>234</key>
+		<dict>
+			<key>Track ID</key><integer>234</integer>
+			<key>Name</key><string>Bodies</string>
+			<key>Artist</key><string>Drowning Pool</string>
+			<key>Album</key><string>Sinner</string>
+			<key>Genre</key><string>Jiné</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>8080580</integer>
+			<key>Total Time</key><integer>202004</integer>
+			<key>Date Modified</key><date>2010-09-18T23:30:02Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>07A91B8BFEED599F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/DrowningPool-Bodies.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>Sacrifice</string>
+			<key>Artist</key><string>Edguy</string>
+			<key>Album</key><string>Rocket Ride</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>14529250</integer>
+			<key>Total Time</key><integer>481697</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-08-31T11:01:58Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>SER 2006</string>
+			<key>Persistent ID</key><string>C77F0BF12F5BC727</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Edguy%20-%202006%20-%20Rocket%20Ride%20-%2001%20-%20Sacrifice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>240</key>
+		<dict>
+			<key>Track ID</key><integer>240</integer>
+			<key>Name</key><string>Eminem - Not Afraid</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4144097</integer>
+			<key>Total Time</key><integer>259004</integer>
+			<key>Date Modified</key><date>2012-06-24T23:39:07Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4E60EEF5B3F73933</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Eminem%20-%20Not%20Afraid.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>243</key>
+		<dict>
+			<key>Track ID</key><integer>243</integer>
+			<key>Name</key><string>Remember The Name</string>
+			<key>Artist</key><string>Fort Minor</string>
+			<key>Album</key><string>Rising Tied</string>
+			<key>Genre</key><string>Unknown</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3659424</integer>
+			<key>Total Time</key><integer>228571</integer>
+			<key>Date Modified</key><date>2012-04-28T14:58:42Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 0000183A 0000049E 00011C45 00007937 00027DF5 000349F0 00008FE8 000091F4 0002E13E 0001FF39</string>
+			<key>Persistent ID</key><string>9A6DD3435F291B49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Fort%20Minor%20-%20Remember%20The%20Name.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>246</key>
+		<dict>
+			<key>Track ID</key><integer>246</integer>
+			<key>Name</key><string>Fox Sports NFL Theme Song</string>
+			<key>Artist</key><string>Various Artists</string>
+			<key>Album</key><string>ESPN Jock Jams Vol. 1</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>1964032</integer>
+			<key>Total Time</key><integer>81946</integer>
+			<key>Date Modified</key><date>2012-04-28T14:39:12Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>41791CD1B018A3D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/fox_nfl_theme.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>249</key>
+		<dict>
+			<key>Track ID</key><integer>249</integer>
+			<key>Name</key><string>Lift 'U' Up</string>
+			<key>Artist</key><string>Gotthard</string>
+			<key>Album</key><string>Lift 'U' Up</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4702850</integer>
+			<key>Total Time</key><integer>176822</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2011-07-10T16:30:46Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>970D86584053BE43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Gotthard%20-%20Lift%20U%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>252</key>
+		<dict>
+			<key>Track ID</key><integer>252</integer>
+			<key>Name</key><string>Anytime, Anywhere</string>
+			<key>Artist</key><string>Gotthard</string>
+			<key>Album Artist</key><string>Gotthard</string>
+			<key>Album</key><string>El Traidor</string>
+			<key>Genre</key><string>Melodic Hard Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>9904128</integer>
+			<key>Total Time</key><integer>247562</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2011-07-10T16:27:50Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F4CD66122D735742</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Gotthard-anytime%20Anywhere%20-%20%5BFullsongs.net%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>255</key>
+		<dict>
+			<key>Track ID</key><integer>255</integer>
+			<key>Name</key><string>guano_apes_-_open_your_eyes</string>
+			<key>Album</key><string>Best</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6045824</integer>
+			<key>Total Time</key><integer>188865</integer>
+			<key>Date Modified</key><date>2012-04-28T14:36:58Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>874E1C761053E4A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/guano_apes_-_open_your_eyes.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>258</key>
+		<dict>
+			<key>Track ID</key><integer>258</integer>
+			<key>Name</key><string>01- Undead</string>
+			<key>Artist</key><string>Hollywood Undead  .::© Www.JiGhil.Com ::.</string>
+			<key>Album Artist</key><string>.::© Www.JiGhil.Com ::.</string>
+			<key>Composer</key><string>.::© Www.JiGhil.Com ::.</string>
+			<key>Album</key><string>Swan Song .::© Www.JiGhil.Com ::.</string>
+			<key>Grouping</key><string>.::© Www.JiGhil.Com ::.</string>
+			<key>Genre</key><string>.::© Www.JiGhil.Com ::.</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4314757</integer>
+			<key>Total Time</key><integer>265195</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-04-28T15:03:32Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>.::© Www.JiGhil.Com ::.</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ECDF46AA157BF4DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Holywood%20Undead%20-%20Undead.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>261</key>
+		<dict>
+			<key>Track ID</key><integer>261</integer>
+			<key>Name</key><string>LastLookAtEden</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>9426057</integer>
+			<key>Total Time</key><integer>235650</integer>
+			<key>Date Modified</key><date>2010-08-06T22:23:56Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D435F423C7BFA670</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/LastLookAtEden.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>264</key>
+		<dict>
+			<key>Track ID</key><integer>264</integer>
+			<key>Name</key><string>Rollin (Airraid Vehicle)</string>
+			<key>Artist</key><string>Limp Bizkit -siam.to/thaimp3</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3414018</integer>
+			<key>Total Time</key><integer>213368</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-04-28T15:00:28Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.themusiclover.com</string>
+			<key>Persistent ID</key><string>A585F94D4E4BFD42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Limp%20Bizkit%20-%20Rollin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>267</key>
+		<dict>
+			<key>Track ID</key><integer>267</integer>
+			<key>Name</key><string>LINKIN PARK - LIES GREED MISERY</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>2486053</integer>
+			<key>Total Time</key><integer>155376</integer>
+			<key>Date Modified</key><date>2012-06-24T22:37:26Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>444F3AEC4429A1A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/LINKIN%20PARK%20-%20LIES%20GREED%20MISERY.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>270</key>
+		<dict>
+			<key>Track ID</key><integer>270</integer>
+			<key>Name</key><string>Bleed It Out</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album Artist</key><string>Linkin Park</string>
+			<key>Composer</key><string>Mike Shinoda, Rick Rubin</string>
+			<key>Album</key><string>Minutes to Midnight</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6575416</integer>
+			<key>Total Time</key><integer>164414</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2010-09-17T23:29:54Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6B6C98DFA7D61DD4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Linkin_Park-Bleed-It-Out.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>273</key>
+		<dict>
+			<key>Track ID</key><integer>273</integer>
+			<key>Name</key><string>The Catalyst</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>A Thousand Suns</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>8158327</integer>
+			<key>Total Time</key><integer>339905</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Date Modified</key><date>2011-08-12T21:18:42Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>85A6EE3E71727A6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/LP%20-%2014.%20The%20Catalyst.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>276</key>
+		<dict>
+			<key>Track ID</key><integer>276</integer>
+			<key>Name</key><string>Machine Head - Bush</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4100852</integer>
+			<key>Total Time</key><integer>256261</integer>
+			<key>Date Modified</key><date>2010-11-30T22:50:54Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DCD23401891F701D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Machine%20Head%20-%20Bush.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>279</key>
+		<dict>
+			<key>Track ID</key><integer>279</integer>
+			<key>Name</key><string>Metallica - Enter Sandman</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>5157230</integer>
+			<key>Total Time</key><integer>322324</integer>
+			<key>Date Modified</key><date>2012-06-24T23:59:21Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>005AB23F6101CA7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Metallica%20-%20Enter%20Sandman.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>282</key>
+		<dict>
+			<key>Track ID</key><integer>282</integer>
+			<key>Name</key><string>Pride- yasuharu takanashi</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>8469570</integer>
+			<key>Total Time</key><integer>264542</integer>
+			<key>Date Modified</key><date>2011-04-09T16:10:24Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>802C77DEBA807B25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Pride-%20yasuharu%20takanashi.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>285</key>
+		<dict>
+			<key>Track ID</key><integer>285</integer>
+			<key>Name</key><string>Take the Power Back</string>
+			<key>Artist</key><string>Rage Against the Machine</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>5394309</integer>
+			<key>Total Time</key><integer>337136</integer>
+			<key>Year</key><integer>9</integer>
+			<key>Date Modified</key><date>2010-12-11T20:18:30Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>, AG# 9748B3F7</string>
+			<key>Persistent ID</key><string>7B76404D7818A693</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/rage-against-the-machine-take-the-power-back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>288</key>
+		<dict>
+			<key>Track ID</key><integer>288</integer>
+			<key>Name</key><string>Higher Ground</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Mother's Milk (Original Press)</string>
+			<key>Genre</key><string>Funk Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>8134574</integer>
+			<key>Total Time</key><integer>203258</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2012-06-25T11:52:12Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>89EB5D2EC4CE2906</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Red%20Hot%20Chili%20Peppers%20-%20Higher%20Ground.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>291</key>
+		<dict>
+			<key>Track ID</key><integer>291</integer>
+			<key>Name</key><string>can't stop</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6630771</integer>
+			<key>Total Time</key><integer>275800</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2005-12-11T16:45:06Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6FB48947ED3CF937</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Red%20Hot%20Chilli%20Peppers%20-%20Cant%20Stop.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>294</key>
+		<dict>
+			<key>Track ID</key><integer>294</integer>
+			<key>Name</key><string>Click Click Boom</string>
+			<key>Artist</key><string>Saliva</string>
+			<key>Album Artist</key><string>Soundtrack</string>
+			<key>Composer</key><string>Bob Marlette/Chris D'abaldo/Josey Scott/Wayne Swinny</string>
+			<key>Album</key><string>UFC Hits</string>
+			<key>Grouping</key><string>Trip-Hop</string>
+			<key>Genre</key><string>UFC Hits</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>4038656</integer>
+			<key>Total Time</key><integer>252316</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2009-05-24T22:55:50Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>179494B422148A68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Saliva%20-%20Click%20Click%20Boom.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>Scooter - Fire</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3400481</integer>
+			<key>Total Time</key><integer>212506</integer>
+			<key>Date Modified</key><date>2009-09-02T15:00:39Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>161BE905FFE8F729</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Scooter%20-%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>300</key>
+		<dict>
+			<key>Track ID</key><integer>300</integer>
+			<key>Name</key><string>earshot- wait</string>
+			<key>Artist</key><string>jokerdcb</string>
+			<key>Album</key><string>jokerspod</string>
+			<key>Genre</key><string>Podcast</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>6474406</integer>
+			<key>Total Time</key><integer>213054</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-12-11T20:31:12Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                KLUdGE SOUND</string>
+			<key>Persistent ID</key><string>B0F18B7DC2F806C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Sean-Sherk-Earshot-Wait.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>Skillet - Awake and Alive</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3535130</integer>
+			<key>Total Time</key><integer>220943</integer>
+			<key>Date Modified</key><date>2012-06-25T11:21:36Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>809F9DAC033FCFAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Skillet%20-%20Awake%20and%20Alive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>306</key>
+		<dict>
+			<key>Track ID</key><integer>306</integer>
+			<key>Name</key><string>Skillet - Monster</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>2996799</integer>
+			<key>Total Time</key><integer>187297</integer>
+			<key>Date Modified</key><date>2012-06-25T11:21:15Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CA950FA478ADFF66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Skillet%20-%20Monster.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>Face The Pain</string>
+			<key>Artist</key><string>Stemm</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>UFC Hits</string>
+			<key>Genre</key><string>UFC Hits</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3195384</integer>
+			<key>Total Time</key><integer>199575</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2009-05-24T22:55:50Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D9512A8A8F78A4BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Stemm%20-%20Face%20The%20Pain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>312</key>
+		<dict>
+			<key>Track ID</key><integer>312</integer>
+			<key>Name</key><string>Three Days Grace - Pain</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3492498</integer>
+			<key>Total Time</key><integer>218279</integer>
+			<key>Date Modified</key><date>2012-06-25T11:20:38Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>156CCDCE128A7F91</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Three%20Days%20Grace%20-%20Pain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>I Try So Hard</string>
+			<key>Artist</key><string>Tribal Ink</string>
+			<key>Album</key><string>Surrounded By Freaks</string>
+			<key>Genre</key><string>Alternativní hudba</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>3169440</integer>
+			<key>Total Time</key><integer>197067</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2012-04-28T14:49:40Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Persistent ID</key><string>421B711BC61B605E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/Tribal%20Ink%20-%20I%20Try%20So%20Hard.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>318</key>
+		<dict>
+			<key>Track ID</key><integer>318</integer>
+			<key>Name</key><string>The Ultimate Fighter Intro</string>
+			<key>Artist</key><string>UFC</string>
+			<key>Kind</key><string>Soubor MPEG audio</string>
+			<key>Size</key><integer>1144432</integer>
+			<key>Total Time</key><integer>71523</integer>
+			<key>Date Modified</key><date>2012-06-25T12:28:21Z</date>
+			<key>Date Added</key><date>2012-06-25T13:14:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>48802A773CAFB660</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/Hudba/Fitness/The%20Ultimate%20Fighter%20Theme%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>fitness</string>
+			<key>Playlist ID</key><integer>176</integer>
+			<key>Playlist Persistent ID</key><string>43D28F96015418D6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>246</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>306</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>318</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

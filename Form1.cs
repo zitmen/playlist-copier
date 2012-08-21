@@ -42,26 +42,23 @@ namespace PlaylistCopier
             //
             try
             {
-                string[] items = File.ReadAllText(playlist).Replace("\r\n", "\n").Split('\n');
+                M3UPlaylistParser parser = new M3UPlaylistParser();
+                parser.LoadPlaylist(playlist);
+                //
                 progressBar1.Value = 0;
                 progressBar1.Minimum = 0;
-                progressBar1.Maximum = items.Length;
+                progressBar1.Maximum = parser.SongsCount;
                 button3.Enabled = false;
-                int songs = 0;
-                foreach (string item in items)
+                foreach (string item in parser.ItemsPaths)
                 {
                     progressBar1.Value = progressBar1.Value + 1;
-                    string song = item.Trim();
-                    if (song.Length == 0) continue;
-                    if (song[0] == '#') continue;
-                    File.Copy(song, destination + '\\' + Path.GetFileName(song), checkBox1.Enabled);
-                    ++songs;
+                    File.Copy(item, destination + '\\' + Path.GetFileName(item), checkBox1.Enabled);
                 }
                 //
                 progressBar1.Value = 0;
                 button3.Enabled = true;
                 //
-                string message = String.Format("{0} songs were successfully copied into the selected destination.", songs);
+                string message = String.Format("{0} songs were successfully copied into the selected destination.", parser.SongsCount);
                 MessageBox.Show(this, message, "Done.", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (IOException)
