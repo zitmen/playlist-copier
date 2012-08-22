@@ -102,6 +102,7 @@ namespace PlaylistCopier
             BackgroundWorker bgWork = new BackgroundWorker();
             bgWork.DoWork += new DoWorkEventHandler(CopyFilesWork);
             bgWork.RunWorkerCompleted += new RunWorkerCompletedEventHandler(CopyFilesDone);
+            bgWork.RunWorkerAsync();
         }
 
         private void CopyFilesWork(object sender, DoWorkEventArgs e)
