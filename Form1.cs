@@ -15,35 +15,22 @@ namespace PlaylistCopier
         public Form1()
         {
             InitializeComponent();
+            EnableCopyButton();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             DialogResult result = openFileDialog1.ShowDialog(this);
-            if (result == DialogResult.OK)
-            {
-                textBox1.Text = openFileDialog1.FileName;
-            }
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            DialogResult result = folderBrowserDialog1.ShowDialog(this);
-            if (result == DialogResult.OK)
-            {
-                textBox2.Text = folderBrowserDialog1.SelectedPath;
-            }
-        }
-
-        private void button3_Click(object sender, EventArgs e)  // TODO: refactor - add the song into a list after it's selected + check if files exist + checkboxes
-        {
-            string playlist    = textBox1.Text;
-            string destination = textBox2.Text;
+            if (result != DialogResult.OK) return;
+            if (openFileDialog1.FileName == null) return;
+            textBox1.Text = openFileDialog1.FileName;
             //
+            // read the playlist
+            string playlist = textBox1.Text;
+            PlaylistParser parser = null;
             try
             {
-                PlaylistParser parser = null;
-                string pl_type = Path.GetExtension(playlist).Substring(1);  // extension without the dot
+                string pl_type = Path.GetExtension(playlist).Substring(1);  // file extension without the dot
                 //
                 if (pl_type.ToUpper().Equals("ASX"))
                     parser = new ASXPlaylistParser();
@@ -61,32 +48,108 @@ namespace PlaylistCopier
                     throw new Exception("Unsupported file extension!");
                 //
                 parser.LoadPlaylist(playlist);
-                //
-                progressBar1.Value = 0;
-                progressBar1.Minimum = 0;
-                progressBar1.Maximum = parser.SongsCount;
-                button3.Enabled = false;
-                foreach (string item in parser.ItemsPaths)
-                {
-                    progressBar1.Value = progressBar1.Value + 1;
-                    File.Copy(item, destination + '\\' + Path.GetFileName(item), checkBox1.Enabled);    // TODO: skipping files!
-                }
-                //
-                progressBar1.Value = 0;
-                button3.Enabled = true;
-                //
-                string message = String.Format("{0} songs were successfully copied into the selected destination.", parser.SongsCount);
-                MessageBox.Show(this, message, "Done.", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            catch (IOException)
-            {
-                string message = "There was an error during the copy operation!\nCheck if the playlist file and the destination folder exist.";
-                MessageBox.Show(this, message, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             catch (Exception ex)
             {
                 MessageBox.Show(this, ex.Message, "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
+            //
+            // check the files and add them into the checklist
+            checkedListBox1.Items.Clear();
+            foreach (string item in parser.ItemsPaths)
+                checkedListBox1.Items.Add(item, File.Exists(item));
+            //
+            // status message
+            if (checkedListBox1.CheckedItems.Count == checkedListBox1.Items.Count)
+            {
+                string message = String.Format("All {0} items were successfully imported.", checkedListBox1.CheckedItems.Count);
+                MessageBox.Show(this, message, "Done.", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                string message = String.Format
+                (
+                    "{0} were not found at the specified locations, hence they are not checked in tle list! The remaining {1} items were successfully imported.",
+                    checkedListBox1.Items.Count - checkedListBox1.CheckedItems.Count, checkedListBox1.CheckedItems.Count
+                );
+                MessageBox.Show(this, message, "Done.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            //
+            EnableCopyButton();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DialogResult result = folderBrowserDialog1.ShowDialog(this);
+            if (result != DialogResult.OK) return;
+            textBox2.Text = folderBrowserDialog1.SelectedPath;
+            //
+            EnableCopyButton();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value = 0;
+            progressBar1.Minimum = 0;
+            progressBar1.Maximum = checkedListBox1.CheckedItems.Count;
+            button3.Enabled = false;
+            //
+            int copied = 0;
+            string destination = textBox2.Text;
+            foreach (string item in checkedListBox1.CheckedItems)
+            {
+                progressBar1.Value = progressBar1.Value + 1;
+                try {
+                    File.Copy(item, destination + '\\' + Path.GetFileName(item), checkBox1.Enabled);
+                    copied++;
+                } catch (IOException) { }
+            }
+            //
+            progressBar1.Value = 0;
+            button3.Enabled = true;
+            //
+            // status message
+            if (copied == checkedListBox1.CheckedItems.Count)
+            {
+                MessageBox.Show
+                (
+                    this, "All selected songs were successfully copied into the selected destination.",
+                    "Done.", MessageBoxButtons.OK, MessageBoxIcon.Information
+                );
+            }
+            else
+            {
+                MessageBox.Show(this, String.Format
+                (
+                    "{0} out of {1} selected songs were successfully copied into the selected destination. Some of the files were not found!",
+                    copied, checkedListBox1.CheckedItems.Count
+                ), "Done.", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void checkedListBox1_ItemCheck(object sender, ItemCheckEventArgs e)
+        {
+            /*
+             * Elegant solution of the problem: http://stackoverflow.com/questions/4454058/no-itemchecked-event-in-a-checkedlistbox
+             * ---
+             * A nice trick to deal with events that you cannot process when they are raised is to delay the processing.
+             * Which you can do with the Control.BeginInvoke() method, it runs as soon as all events are dispatched,
+             * side-effects are complete and the UI thread goes idle again. Often helpful for TreeView as well, another cranky control.
+             */
+            this.BeginInvoke((MethodInvoker)delegate
+            {
+                EnableCopyButton();
+            });
+        }
+
+        private void EnableCopyButton()
+        {
+            // if it wasn't an empty playlist, enable the 'copy' button and if destination exists
+            if ((checkedListBox1.CheckedItems.Count > 0) && (Directory.Exists(textBox2.Text)))
+                button3.Enabled = true;
+            else
+                button3.Enabled = false;
         }
     }
 }

@@ -40,6 +40,7 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.SuspendLayout();
             // 
             // openFileDialog1
@@ -103,10 +104,18 @@
             resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
             // 
+            // checkedListBox1
+            // 
+            this.checkedListBox1.FormattingEnabled = true;
+            resources.ApplyResources(this.checkedListBox1, "checkedListBox1");
+            this.checkedListBox1.Name = "checkedListBox1";
+            this.checkedListBox1.ItemCheck += new System.Windows.Forms.ItemCheckEventHandler(this.checkedListBox1_ItemCheck);
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
+            this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.progressBar1);
@@ -136,6 +145,7 @@
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.CheckedListBox checkedListBox1;
     }
 }
 
