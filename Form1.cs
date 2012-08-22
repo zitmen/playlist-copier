@@ -93,23 +93,46 @@ namespace PlaylistCopier
             progressBar1.Value = 0;
             progressBar1.Minimum = 0;
             progressBar1.Maximum = checkedListBox1.CheckedItems.Count;
+            button1.Enabled = false;
+            button2.Enabled = false;
             button3.Enabled = false;
+            checkBox1.Enabled = false;
+            checkedListBox1.Enabled = false;
             //
+            BackgroundWorker bgWork = new BackgroundWorker();
+            bgWork.DoWork += new DoWorkEventHandler(CopyFilesWork);
+            bgWork.RunWorkerCompleted += new RunWorkerCompletedEventHandler(CopyFilesDone);
+            bgWork.RunWorkerAsync();
+        }
+
+        private void CopyFilesWork(object sender, DoWorkEventArgs e)
+        {
             int copied = 0;
             string destination = textBox2.Text;
             foreach (string item in checkedListBox1.CheckedItems)
             {
                 progressBar1.Value = progressBar1.Value + 1;
-                try {
+                try
+                {
                     File.Copy(item, destination + '\\' + Path.GetFileName(item), checkBox1.Enabled);
                     copied++;
-                } catch (IOException) { }
+                }
+                catch (IOException) { }
             }
-            //
+            e.Result = copied;
+        }
+
+        private void CopyFilesDone(object sender, RunWorkerCompletedEventArgs e)
+        {
             progressBar1.Value = 0;
+            button1.Enabled = true;
+            button2.Enabled = true;
             button3.Enabled = true;
+            checkBox1.Enabled = true;
+            checkedListBox1.Enabled = true;
             //
             // status message
+            int copied = (int)e.Result;
             if (copied == checkedListBox1.CheckedItems.Count)
             {
                 MessageBox.Show
