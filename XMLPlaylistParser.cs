@@ -2,7 +2,6 @@
 using System.IO;
 using System.Collections;
 using System.Xml;
-using System.Text;
 
 namespace PlaylistCopier
 {
@@ -17,13 +16,29 @@ namespace PlaylistCopier
             //
             try
             {
-                StreamReader docIn = new StreamReader(fpath, Encoding.GetEncoding("UTF-8"));
-                XmlDocument doc = new XmlDocument();
-                doc.Load(docIn);
-                CheckFileType(doc);
-                foreach (XmlElement item in doc.GetElementsByTagName("key"))
-                    if(item.InnerText.ToLower().Equals("location"))
-                        ItemsPaths.Add(item.NextSibling.InnerText.Trim());
+                XmlReaderSettings settings = new XmlReaderSettings();
+                settings.XmlResolver = null;
+                settings.DtdProcessing = DtdProcessing.Ignore;
+                settings.ValidationType = ValidationType.None;
+                using (XmlReader reader = XmlReader.Create(fpath, settings))
+                {
+                    CheckFileType(reader);
+                    while (reader.ReadToFollowing("key"))
+                    {
+                        reader.ReadStartElement("key");
+                        if (reader.ReadString().ToLower().Equals("location"))
+                        {
+                            reader.ReadEndElement();
+                            reader.ReadStartElement("string");
+                            string str = new Uri(reader.ReadString().Trim()).LocalPath;
+                            if (str.StartsWith(@"\\localhost\")) str = str.Substring(12);
+                            ItemsPaths.Add(str);
+                            reader.ReadEndElement();
+                        }
+                        else
+                            reader.ReadEndElement();
+                    }
+                }
             }
             catch (IOException)
             {
@@ -35,12 +50,13 @@ namespace PlaylistCopier
             }
         }
 
-        private void CheckFileType(XmlDocument doc)
+        private void CheckFileType(XmlReader reader)
         {
-            //doc.DocumentType.Name.ToLower().Equals("plist")
-            XmlElement root = doc.DocumentElement;
-            if (!root.Name.ToLower().Equals("plist"))
+            try {
+                reader.ReadStartElement("plist");
+            } catch(XmlException) {
                 throw new Exception("The file is not a valid Apple PLIST playlist!");
+            }
         }
     }
 }

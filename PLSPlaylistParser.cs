@@ -26,7 +26,7 @@ namespace PlaylistCopier
                     if (song.Length == 0) continue; // empty line
                     Match match = Regex.Match(song, @"^File[0-9]+=(.*)$", RegexOptions.IgnoreCase); // looking for file paths
                     if (match.Success)
-                        ItemsPaths.Add(match.Groups[0].Value);
+                        ItemsPaths.Add(match.Groups[1].Value);
                 }
             }
             catch (IOException)

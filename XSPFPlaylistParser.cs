@@ -22,7 +22,7 @@ namespace PlaylistCopier
                 doc.Load(docIn);
                 CheckFileType(doc);
                 foreach (XmlElement item in doc.GetElementsByTagName("location"))
-                    ItemsPaths.Add(item.InnerText.Trim());
+                    ItemsPaths.Add(new Uri(item.InnerText.Trim()).LocalPath);
             }
             catch (IOException)
             {
@@ -40,7 +40,7 @@ namespace PlaylistCopier
             if (!root.Name.ToLower().Equals("playlist"))
                 throw new Exception("The file is not a valid XSPF playlist!");
             //
-            if (!doc.NamespaceURI.Equals("http://xspf.org/ns/0/"))
+            if (!root.NamespaceURI.Equals("http://xspf.org/ns/0/"))
                 throw new Exception("The file is not a valid XSPF playlist!");
         }
     }
