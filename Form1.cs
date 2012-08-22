@@ -42,7 +42,7 @@ namespace PlaylistCopier
             //
             try
             {
-                M3UPlaylistParser parser = new M3UPlaylistParser();
+                PlaylistParser parser = new WPLPlaylistParser();
                 parser.LoadPlaylist(playlist);
                 //
                 progressBar1.Value = 0;

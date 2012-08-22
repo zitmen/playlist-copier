@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.IO;
+using System.Text;
 
 namespace PlaylistCopier
 {
@@ -17,7 +18,7 @@ namespace PlaylistCopier
             //
             try
             {
-                string[] items = File.ReadAllText(fpath).Replace("\r\n", "\n").Split('\n');
+                string[] items = File.ReadAllText(fpath, Encoding.GetEncoding("UTF-8")).Replace("\r\n", "\n").Split('\n');
                 CheckFileType(items[0]);
                 foreach (string item in items)
                 {
