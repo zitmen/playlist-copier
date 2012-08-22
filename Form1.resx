@@ -121,7 +121,7 @@
     <value>17, 17</value>
   </metadata>
   <data name="openFileDialog1.Filter" xml:space="preserve">
-    <value>WinAMP|*.m3u;*.m3u8|KM Player|*.kpl|Windows Media Player|*.asx;*.wpl</value>
+    <value>All Supported Playlists|*.asx;*.bsl;*.kpl;*.m3u;*.m3u8;*.pls;*.wpl;*.xml;*.xspf|BS.Player|*.bsl|Foobar|*.pls|iTunes|*.xml|KM Player|*.kpl|VLC Player|*.xspf|WinAMP|*.m3u;*.m3u8|Windows Media Player|*.asx;*.wpl</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">

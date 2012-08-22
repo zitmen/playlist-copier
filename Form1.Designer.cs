@@ -44,7 +44,7 @@
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.DefaultExt = "m3u";
+            this.openFileDialog1.DefaultExt = "*";
             resources.ApplyResources(this.openFileDialog1, "openFileDialog1");
             // 
             // button1
